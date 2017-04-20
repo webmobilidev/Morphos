@@ -21,11 +21,11 @@
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleShortVersionString</key>
-    <string>4.0.185</string>
+    <string>5.0.185</string>
     <key>CFBundleSignature</key>
     <string>????</string>
     <key>CFBundleVersion</key>
-    <string>4.0.185</string>
+    <string>5.0.185</string>
     <key>LSRequiresIPhoneOS</key>
     <true/>
     <key>NSMainNibFile</key>
@@ -61,5 +61,7 @@
     <string>xxxxx</string>
     <key>IS_GCM_ENABLED</key>
     <true/>
+    <key>NSContactsUsageDescription</key>
+    <string/>
   </dict>
 </plist>
